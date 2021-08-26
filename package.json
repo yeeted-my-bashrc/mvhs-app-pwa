@@ -99,7 +99,7 @@
     "deploy:expo": "exp publish",
     "flow": "flow",
     "test:web": "node web/scripts/test --env=jsdom",
-    "start": "node web/scripts/build"
+    "start": "node web/scripts/start"
   },
   "jest": {
     "collectCoverageFrom": [
